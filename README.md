@@ -46,7 +46,7 @@ This repository contains a case study for housing price prediction using machine
 
 3. Run the inference API locally:
     ```bash
-    uvicorn main:app --reload
+    uvicorn app:app --reload
     ```
 
 4. Access the API documentation at: http://127.0.0.1:8000/docs
@@ -69,8 +69,5 @@ The project consists of three main components:
 3. Inference API:
 
 - REST API built using FastAPI.
-- Accepts JSON input and returns predicted housing price/s.
+- Accepts JSON input and returns predicted housing price.
 - API endpoint documentation available via Swagger UI.
-
-## Architecture Diagram:
-=============== diagram here ===============
