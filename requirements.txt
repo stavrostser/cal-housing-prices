@@ -1,6 +1,7 @@
 pandas  
 numpy  
-pytorch  
+torch  
 fastapi  
 uvicorn  
+pydantic
 matplotlib
