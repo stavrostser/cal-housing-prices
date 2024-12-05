@@ -23,8 +23,9 @@ This repository contains a case study for housing price prediction using machine
 - Libraries (can be installed via steps below):
   - `pandas`  
   - `numpy`  
-  - `pytorch`  
-  - `fastapi`  
+  - `torch`  
+  - `fastapi` 
+  - `pydantic` 
   - `uvicorn`  
   - `matplotlib`  
 
